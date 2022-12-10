@@ -35,3 +35,5 @@ The effectively measured speedup is not the theoretical one, for the obvious ove
 * Speedup on 2 processes: 1.47x
 * Speedup on 3 processes: 2.32x
 * Speedup on 5 processes: 2.94x
+
+[Colab reference notebook](https://colab.research.google.com/drive/1SzH4U_cq9HbduN64PbBDYSMka1KuMOxa?usp=sharing)
